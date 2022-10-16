@@ -1,0 +1,14 @@
+﻿Fill in the details (should be same as those while registering for CNI Hackathon):
+
+
+Team Name: alt f4
+
+
+Team Member 1: (Assumed to be the team lead, by default)
+Name: Yash Ghodekar
+Email ID: yash20100@iiitnr.edu.in
+
+
+Team Member 2:
+Name: Pratyush Parashar
+Email ID: pratyush20102@iiitnr.edu.in
