@@ -38,6 +38,7 @@ class player:
                     return (1, 0)
             
             self.rect_p = False
+            self.cnt = 1
 
         if B[(cur_x+1)%N][cur_y] == 0:
             return (1,0)
